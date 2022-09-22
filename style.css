@@ -1,0 +1,21 @@
+@import url("https://webgl2fundamentals.org/webgl/resources/webgl-tutorials.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+#c {
+    display: block;  /* prevents scrollbar */
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
